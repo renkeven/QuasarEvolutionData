@@ -13,4 +13,11 @@ QLFs for 1 < z < 10 as shown in Fig1+2
 HMF for 1 < z < 10  
 Halo Assembly Times, t(M) for 1 < z < 10 as computed using Giocoli+07  
 
+---
+
+Paper plots for reference:
+
+![z ge 4 Plots](/FigDemo/fig1.pdf)
+
+![z le 4 Plots](/FigDemo/fig2.pdf)
 
