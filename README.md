@@ -1,5 +1,10 @@
 # QuasarEvolutionData
-Compiled outputs from the semi-empirical model described in Ren+21
+Compiled outputs from the semi-empirical model described in Ren+21  
+
+
+One way to compute the QLF from LcMh is to use Eqn3 from Ren+21, with zc=4.  
+Alternatively, one can use LcMh at different z (Eqn2) for the same result.
+
 
 Contains:
 
