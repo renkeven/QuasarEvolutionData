@@ -17,7 +17,8 @@ Halo Assembly Times, t(M) for 1 < z < 10 as computed using Giocoli+07
 
 Paper plots for reference:
 
-<img src="/FigDemo/fig1.png" width="400">
+<img src="/FigDemo/fig1.png" align="center" width="700">
 
-![z le 4 Plots](/FigDemo/fig2.png)
+<img src="/FigDemo/fig2.png" align="center" width="700">
+
 
